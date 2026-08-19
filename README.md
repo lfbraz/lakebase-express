@@ -1,3 +1,21 @@
+> # 📦 This repository has moved
+>
+> **Lakebase Express is now developed at
+> [databricks-solutions/lakebase-express](https://github.com/databricks-solutions/lakebase-express).**
+>
+> This repository is no longer maintained. All development, issues, and pull
+> requests happen in the new home. To point an existing clone there:
+>
+> ```bash
+> git remote set-url origin https://github.com/databricks-solutions/lakebase-express.git
+> ```
+>
+> The complete commit history came along, so nothing was lost in the move. Note
+> that the project is now released under the
+> [Databricks License](https://databricks.com/db-license-source) rather than MIT.
+
+---
+
 # Lakebase Express
 
 A Databricks App that guides you through migrating a transactional database to
